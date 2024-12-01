@@ -1,2 +1,2 @@
-# threejs-journey
-Practical exercises for the course &lt;a href="#">Three.js Journey&lt;/a>
+# Threejs Journey
+Practical exercises for Three.js Journey course
